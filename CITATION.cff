@@ -1,0 +1,15 @@
+cff-version: 1.2.0
+message: "If you use AEC GenAI Bench, please cite it using the metadata below."
+title: "AEC GenAI Bench"
+abstract: >-
+  A public benchmark and evaluation resource hub for generative AI in
+  Architecture, Engineering, and Construction (AEC).
+type: software
+authors:
+  - name: "AEC GenAI Bench Contributors"
+repository-code: "https://github.com/aec-genai-bench-nsf/AEC-GenAI-Bench"
+keywords:
+  - benchmark
+  - generative AI
+  - architecture, engineering, and construction
+  - building energy modeling

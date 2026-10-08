@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.egg-info/
+.venv/
+venv/
+.ipynb_checkpoints/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+build/
+dist/
+
+# Secrets / environment
+.env
+.env.*
+*.key
+*.pem
+secrets*.json
+credentials*.json
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.swp
+*.tmp
