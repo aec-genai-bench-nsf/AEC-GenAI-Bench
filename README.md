@@ -84,6 +84,11 @@ AEC GenAI Bench is currently under development.
 
 The repository structure and benchmark resources are being developed and will be updated as the project progresses.
 
+### Meetings
+
+| Date | Description | Link |
+|----------|-------------|------|
+| 10/06/2026 | NSF Monthly Meeting: Kickoff | https://arizona.app.box.com/folder/427535658064 |
 
 ## Citation
 
